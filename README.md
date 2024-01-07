@@ -1,3 +1,5 @@
 # goorm
-2024.01.07
-<img width="1512" alt="image" src="https://github.com/kim0527/goorm/assets/143387515/09d4519b-fe89-4a31-a8c7-93fcece141ec">
+2024.01.06
+<img width="1512" alt="image" src="https://github.com/kim0527/goorm/assets/143387515/9a0814b7-b6e3-4b40-adbb-8d8a48723c64">
+<img width="1512" alt="image" src="https://github.com/kim0527/goorm/assets/143387515/c9ae3112-325f-41b4-a6d9-13d1e4477750">
+
