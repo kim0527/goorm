@@ -1,0 +1,32 @@
+.Bottom {
+    background-color: black;
+    height: 1fr;
+    width: 1fr;
+}
+.category{
+    width: 1fr;
+    height: 50px;
+    color: white;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-size: 25px;
+    font-weight:bolder;
+    margin-left: 30px;
+    margin-right: 30px;
+    align-items: center;
+}
+.movies{
+    display : flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    align-items: center;
+    justify-content: space-around;
+}
+.movie img{
+    width:150px;
+    transition: all 0.2s linear;
+    cursor: pointer;
+}
+.movie:hover img{
+    order:1;
+    transform: scale(1.3);
+}
