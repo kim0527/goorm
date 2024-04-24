@@ -1,4 +1,4 @@
-# 넷플릭스 페이지 클론코딩
+# 넷플릭스 클론코딩
 2024.01.06
 <br>
 <img width="1512" alt="image" src="https://github.com/kim0527/goorm/assets/143387515/9a0814b7-b6e3-4b40-adbb-8d8a48723c64">
